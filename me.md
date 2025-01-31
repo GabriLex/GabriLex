@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @GabriLex
-- 👀 I’m interested on modding.
-- 🌱 I’m currently learning git,bash,c++ for customize and compile smartphones kernels.
-- I have Poco X3 NFC (surya).
+- 👀 I’m interested on cyber security 
+- I have POCO F5 ( modded )
